@@ -1,0 +1,6 @@
+source 'https://rubygems.org' 
+gem 'cucumber', '~> 8.0' 
+gem 'site_prism', '~> 4.0' 
+gem 'capybara', '~> 3.0' 
+gem 'selenium-webdriver', '~> 4.0' 
+gem 'webdrivers', '~> 5.0'
